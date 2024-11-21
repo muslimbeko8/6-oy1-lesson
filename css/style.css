@@ -153,3 +153,7 @@ footer {
     }
   }
 }
+
+.footer_left p {
+  opacity: 0.5;
+}
